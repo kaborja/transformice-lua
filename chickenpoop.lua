@@ -1,6 +1,6 @@
-host = "Iililililil#2525"
+host = "Cyanny#0000" -- /!\ Replace this with your username, including your hash!
 game = {ui={bgColor1=0x48311d,brColor1=0x060404,bgColor2=0x6d5d2d,brColor2=0xa38b44,bgColor3=0x5aa581,brColor3=0x3d8763,bgColor4=0x4a3e35},goal=10}
-game.score = 50
+game.score = 200
 
 page = 1
 
